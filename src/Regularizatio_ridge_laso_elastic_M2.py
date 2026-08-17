@@ -555,7 +555,7 @@ print(comparison)
 
 
 comparison.to_csv(
-   "C:/Users/Manepalli Sarvani/PycharmProjects/placement_prediction/datasett/regularisation_model_comparison_M2.csv",
+   "C:/Users/Manepalli Sarvani/PycharmProjects/placement_prediction/dataset/regularisation_model_comparison_M2.csv",
    index=False
 )
 
@@ -607,7 +607,7 @@ print(coefficient_table)
 
 
 coefficient_table.to_csv(
-   "C:\Users\Manepalli Sarvani\PycharmProjects\placement_prediction\dataset/regularisation_coefficients_M2.csv",
+   "C:/Users/Manepalli Sarvani/PycharmProjects/placement_prediction/dataset/regularisation_coefficients_M2.csv",
    index=False
 )
 
