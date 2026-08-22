@@ -1,0 +1,33 @@
+MULTINOMIAL LOGISTIC REGRESSION RESULTS
+===========================================================================
+
+Dataset: C:/Users/Manepalli Sarvani/PycharmProjects/placement_prediction/dataset/final_preprocess_M2.csv
+Target: CGPA_Tier
+Number of classes: 3
+
+CLASS MAPPING
+----------------------------------------
+0 = 0
+1 = 1
+2 = 2
+
+MODEL PERFORMANCE
+----------------------------------------
+Accuracy: 0.9832
+Accuracy (%): 98.32%
+Precision: 0.9832
+Recall: 0.9832
+F1 Score: 0.9832
+Cross-Entropy Loss: 0.0458
+
+CLASSIFICATION REPORT
+----------------------------------------
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3336
+           1       0.97      0.98      0.98      3347
+           2       0.98      0.97      0.97      3317
+
+    accuracy                           0.98     10000
+   macro avg       0.98      0.98      0.98     10000
+weighted avg       0.98      0.98      0.98     10000
